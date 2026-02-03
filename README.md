@@ -22,18 +22,12 @@ This project provides a clean dark/green terminal-inspired interface with real-t
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
-> Add your screenshots here after uploading them to the `screenshots/` folder.
-
-```text
-screenshots/
- ├── main-ui.png
- └── scanning.png
-## 🖼️ Screenshots
-
-![Scanning UI](screenshots/scanning-ui.png)
-## 🖼️ Screenshots
-
+### Main Interface
 ![Main UI](screenshots/main-ui.png)
+
+### Scanning in Progress
+![Scanning UI](screenshots/scanning-ui.png)
+
 
